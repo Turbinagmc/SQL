@@ -1,0 +1,6 @@
+USE logistica
+GO
+
+SELECT DATEPART(DAY, GETDATE());
+
+
